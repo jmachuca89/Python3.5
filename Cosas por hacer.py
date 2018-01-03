@@ -1,8 +1,12 @@
+#!/usr/bin/python3
+
 # 1.	Ver modulos de Python https://docs.python.org/3/py-modindex.html#
 # 2.	datetime formats https://docs.python.org/3/library/datetime.html#strftime-and-strptime-behavior
 # 3.	Codigo de idiomas https://www.science.co.il/language/Locale-codes.php
 
 # 4.	para definir funciones 
+
+
 def function ():
 	try:
 		pass
